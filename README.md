@@ -1,3 +1,12 @@
+Codebase generated from NOWA AI. It was not working. Hence some refinements are there to make first init on repo-it was debuggable build.
+- I had not worked since months. Yet I am adaptable. 
+- I encountered critical issue with the android build configuration on hot codebase exported from NOWA AI. to completely resolve it I deleted android folder and fired flutter create command on project root.
+- worked on article cards. the elements were overflowing. so I hard coded height values and used double.infinity on article image so it looks satisfying. 
+- The current scenario keeps the favorites same for any user. I spent hours trying to debug favorites issue. I had to stash the changes and submit code to github. It still needs work.
+
+
+
+
 # Mini News Intelligence
 
 A Mini News Intelligence app built with Flutter, Riverpod and Hive. The app demonstrates a clean architecture, Riverpod state management, API integration with caching & local persistence, and robust error handling.
