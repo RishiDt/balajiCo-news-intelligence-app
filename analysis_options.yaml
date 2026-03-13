@@ -1,0 +1,8 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    always_specify_types: true
+    prefer_final_locals: true
+    avoid_print: false
+    unnecessary_this: true

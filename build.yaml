@@ -1,0 +1,6 @@
+# Minimal build configuration; adapters implemented manually so this is optional.
+targets:
+  $default:
+    builders:
+      hive_generator:
+        enabled: false
