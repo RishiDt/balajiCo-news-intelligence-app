@@ -1,3 +1,5 @@
+# Developer Note
+
 Codebase generated from NOWA AI. It was not working. Hence some refinements are there to make first init on repo-it was debuggable build.
 - I had not worked since months. Yet I am adaptable. 
 - I encountered critical issue with the android build configuration on hot codebase exported from NOWA AI. to completely resolve it I deleted android folder and fired flutter create command on project root.
